@@ -1,0 +1,9 @@
+-- INSERT --
+continuous delivery and devops
+software engineering
+agile
+scrum
+safe
+:wq
+:wq
+
